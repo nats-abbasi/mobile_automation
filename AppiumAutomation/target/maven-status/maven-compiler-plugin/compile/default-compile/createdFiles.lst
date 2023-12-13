@@ -1,0 +1,4 @@
+org/mobileAutomation/utils/AndroidActions.class
+org/mobileAutomation/pageObjects/android/CartPage.class
+org/mobileAutomation/pageObjects/android/FormPage.class
+org/mobileAutomation/pageObjects/android/ProductCatalogue.class
